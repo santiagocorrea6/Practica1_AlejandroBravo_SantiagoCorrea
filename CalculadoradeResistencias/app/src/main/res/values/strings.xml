@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Calculadora de Resistencias</string>
+    <string name="banda1">Banda 1: </string>
+        <string name="banda2">Banda 2: </string>
+        <string name="banda3">Banda 3: </string>
+        <string name="tolerancia">Tolerancia: </string>
+
+        <string-array name="banda_1">
+            <item>Marron</item>
+            <item>Rojo</item>
+            <item>Naranja</item>
+            <item>Amarillo</item>
+            <item>Verde</item>
+            <item>Azul</item>
+            <item>Morado</item>
+            <item>Gris</item>
+            <item>Blanco</item>
+        </string-array>
+
+        <string-array name="banda_2">
+            <item>Negro</item>
+            <item>Marron</item>
+            <item>Rojo</item>
+            <item>Naranja</item>
+            <item>Amarillo</item>
+            <item>Verde</item>
+            <item>Azul</item>
+            <item>Morado</item>
+            <item>Gris</item>
+            <item>Blanco</item>
+        </string-array>
+
+        <string-array name="banda_3">
+            <item>Negro</item>
+            <item>Marron</item>
+            <item>Rojo</item>
+            <item>Naranja</item>
+            <item>Amarillo</item>
+            <item>Verde</item>
+            <item>Azul</item>
+        </string-array>
+
+        <string-array name="tolerancia">
+            <item>Ninguno</item>
+            <item>Marron</item>
+            <item>Rojo</item>
+            <item>Oro</item>
+            <item>Plata</item>
+        </string-array>
+
+        <string name="calcular">CALCULAR</string>
+    <string name="titulo">Codigo de colores</string>
+</resources>

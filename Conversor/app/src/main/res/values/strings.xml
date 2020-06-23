@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="divisaActual">Divisa actual</string>
+    <string name="divisaCambio">Divisa cambio</string>
+    <string name="importe">Importe</string>
+    <string name="procesar">Procesar</string>
+    <string name="resultado">Resultado</string>
+    
+    <string-array name="divisas">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>COP</item>
+    </string-array>
+    
+    
+</resources>
